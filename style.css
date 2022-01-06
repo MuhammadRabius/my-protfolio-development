@@ -7,7 +7,7 @@ body {
 
 .Welcome-header {
       display: flex;
-      margin-top: 10%;
+      margin-top: 5%;
 
 
 
@@ -16,6 +16,7 @@ body {
 .exploreme-area {
       width: 50%;
       padding-left: 6%;
+
 
 }
 
@@ -32,4 +33,31 @@ span {
 img {
       width: 30%;
       margin-left: 20%;
+}
+
+.Develop-area {
+      display: flex;
+      margin-top: 5%;
+
+}
+
+.Develop {
+      width: 50%;
+      padding-right: 20%;
+      font-size: 20px;
+}
+
+.Coding {
+      width: 100%;
+
+}
+
+#coding-backround {
+
+      background-image: url(images/shapes/shape-1.png);
+      background-repeat: no-repeat;
+      background-position: left;
+      background-size: 200px;
+
+
 }
