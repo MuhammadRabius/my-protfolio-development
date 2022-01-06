@@ -28,6 +28,7 @@ span {
       text-decoration: none;
       background-color: orangered;
       padding: 10px 40px;
+      border-radius: 7px;
 }
 
 img {
@@ -35,9 +36,53 @@ img {
       margin-left: 20%;
 }
 
-.Develop-area {
+.mymission-text {
+      text-align: center;
+}
+
+.mymission-text span {
+      color: color: coral;
+}
+
+.mymission-contain {
       display: flex;
       margin-top: 5%;
+
+
+}
+
+#ill-one {
+
+      background-color: lightblue;
+      border-radius: 5px;
+}
+
+#ill-two {
+      background-color: lightcoral;
+      border-radius: 5px;
+}
+
+#ill-three {
+      background-color: lightgray;
+      border-radius: 5px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Develop-area {
+      display: flex;
+      margin-top: 15%;
 
 }
 
@@ -83,5 +128,12 @@ img {
 }
 
 footer {
+      text-align: center;
+      font-size: 15px;
+      color: white;
       background-color: black;
+}
+
+footer span {
+      color: crimson;
 }
